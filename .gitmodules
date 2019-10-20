@@ -13,3 +13,6 @@
 [submodule "excercises/msa-logging"]
 	path = excercises/msa-logging
 	url = git@github.com:membrane/msa-logging.git
+[submodule "excercises/msa-checkout"]
+	path = excercises/msa-checkout
+	url = git@github.com:membrane/msa-checkout.git
