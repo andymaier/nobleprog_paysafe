@@ -16,3 +16,6 @@
 [submodule "excercises/msa-checkout"]
 	path = excercises/msa-checkout
 	url = git@github.com:membrane/msa-checkout.git
+[submodule "excercises/msa-gateway"]
+	path = excercises/msa-gateway
+	url = git@github.com:membrane/msa-gateway.git
