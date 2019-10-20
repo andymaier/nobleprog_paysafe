@@ -19,3 +19,6 @@
 [submodule "excercises/msa-gateway"]
 	path = excercises/msa-gateway
 	url = git@github.com:membrane/msa-gateway.git
+[submodule "excercises/msa-admin"]
+	path = excercises/msa-admin
+	url = git@github.com:membrane/msa-admin.git
