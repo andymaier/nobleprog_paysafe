@@ -4,3 +4,6 @@
 [submodule "msa-utils"]
 	path = msa-utils
 	url = git@github.com:membrane/msa-utils.git
+[submodule "excercises/msa-utils"]
+	path = excercises/msa-utils
+	url = git@github.com:membrane/msa-utils.git
